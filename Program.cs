@@ -6,13 +6,17 @@ using System.Threading.Tasks;
 
 namespace практика
 {
-    internal class monitor
+    internal class monitor1
     {
         static void Main(string[] args)
         {
-            public string firm;
-            public string type;
-            public float diagonal;
+            //monitor Monitor = new monitor();
+            //Monitor.firm = "Samsung";
+            //Monitor.type = "жидкокристаллический";
+            //Monitor.diagonal = 32;
+            //public string firm { get; set; }
+            //public string type { get; set; }
+            //public float diagonal { get; set; }
 
         }
     }
